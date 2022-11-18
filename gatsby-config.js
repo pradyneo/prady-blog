@@ -1,33 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Serial Programmer`,
+    title: `Prady's XYZ`,
     author: {
-      name: `Sharad Raj`,
+      name: `Prady Neog`,
       bio: `<p>
-              Developed by Sharad Raj who lives in India building useful things for the world.
-            </p>
-            <p>
-              You should follow him on <a href="https://github.com/sharadcodes">Github</a>
+              A personal blog to share coding knowledge.
             </p>
             `,
-      dp: "https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4",
+      dp: "https://avatars.githubusercontent.com/u/6750828?v=4",
       social: {
         github: {
           title: "github",
-          username: `sharadcodes`,
+          username: `pradyneo`,
           url: `https://github.com/`,
         },
         linkedin: {
           title: "linkedin",
-          username: `srsmaurya`,
+          username: `prady-neog`,
           url: `https://linkedin.com/in/`,
         },
         twitter: {
           title: "twitter",
-          username: `iamsharadraj`,
+          username: `pradyneog`,
           url: `https://twitter.com/`,
         },
-        dev: { title: "dev", username: `sharadcodes`, url: `https://dev.to/` },
+        dev: { title: "dev", username: `pradyneo`, url: `https://dev.to/` },
         email: { title: "email", username: `me@example.com`, url: `mailto:` },
       },
     },
