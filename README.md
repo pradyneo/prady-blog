@@ -14,6 +14,12 @@
 
 [Live Demo Gatbsy Cloud](https://gatsbythemeserialprogrammer.gatsbyjs.io/)
 
+# Installation
+`yarn install`
+
+# Running Locally
+`yarn run gatsby develop`
+
 # Screenshots
 
 ## BLOG PAGE
